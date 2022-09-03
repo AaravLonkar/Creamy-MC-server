@@ -1,4 +1,4 @@
-# Creamy-MC-server
+# server
 a new mc server that i made
 
 so yeah...
